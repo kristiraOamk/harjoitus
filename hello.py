@@ -1,1 +1,1 @@
-rin("Hello!")
+print("Hello!")
