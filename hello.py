@@ -1,1 +1,1 @@
-rint("Hello!")
+rin("Hello!")
